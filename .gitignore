@@ -1,0 +1,23 @@
+# Node build / deps
+client/node_modules/
+client/dist/
+
+# Python env / caches
+api/venv/
+api/__pycache__/
+
+# Env vars
+*.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS/IDE junk
+Thumbs.db
+.history
