@@ -7,7 +7,7 @@ from sqlalchemy.orm import sessionmaker
 # You can also set this via the DATABASE_URL env var
 DATABASE_URL = os.getenv(
     "DATABASE_URL",
-    "postgresql://user:password@localhost:5432/crisiscore"
+    "postgresql://parthpandya:P%40rthheysha2kk5@localhost:5432/crisiscore"
 )
 
 # ─── Engine & Session ──────────────────────────────────────────────────────────
