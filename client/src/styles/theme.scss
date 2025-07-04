@@ -1,0 +1,10 @@
+$primary:   #E53935;  // deep red
+$secondary: #FFFFFF;
+
+@import "bootstrap/scss/bootstrap";
+
+:root {
+  --bs-primary:   #{$primary};
+  --bs-body-bg:   #{$secondary};
+  --bs-body-color: #333;
+}
