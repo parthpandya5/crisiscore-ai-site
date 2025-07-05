@@ -4,7 +4,8 @@
     <ImpactStats />
     <FeatureCards />
     <PartnersCarousel />
-+   <Testimonials />
+    <Testimonials />
+    <Contact />
   </div>
 </template>
 
@@ -14,4 +15,5 @@ import ImpactStats from '../components/ImpactStats.vue'
 import FeatureCards from '../components/FeatureCards.vue'
 import PartnersCarousel from '../components/PartnersCarousel.vue'
 import Testimonials from '../components/Testimonials.vue'
+import Contact from '../components/Contact.vue'
 </script>
